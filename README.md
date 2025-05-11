@@ -23,7 +23,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pranavamrutkar9/FaultyCalculator-JavaScript.git
+   git clone https://github.com/pranavamrutkar9/FaultyCalculator1-JavaScript.git
 2. Navigate into the project directory:
    ```bash
    cd faulty-calculator
